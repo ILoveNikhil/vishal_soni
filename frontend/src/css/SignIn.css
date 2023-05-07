@@ -1,0 +1,32 @@
+.signIn{
+   
+    background-color: rgb(236, 248, 252);
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginForm{
+    background-color: white;
+    padding: 30px;
+    border: 1px solid rgb(129, 121, 121);
+    border-radius: 10px;
+} 
+
+
+#login-btn{
+    background-color: #da2a07;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    font-weight: bold;
+    padding: 5px 10px;
+   
+    cursor: pointer;
+    margin-top: 8px;
+}
+#login-btn:hover{
+    background-color: #f23b3be3;
+    
+}

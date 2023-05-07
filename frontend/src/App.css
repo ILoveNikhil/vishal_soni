@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.input_box{
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.input_box img {
+  position: absolute;  
+  width: 20px; 
+right: 0.5rem;
+}
